@@ -17,8 +17,11 @@ This solution will be compatible with both NPSP and Non Profit Cloud.
 ## Slack Channel Link (access required)
 
 Repair:https://salesforce.enterprise.slack.com/archives/C06QUT9329X
+
 Self Service Portal: https://salesforce.enterprise.slack.com/archives/C06QG8U8E6N
+
 Complaints: https://salesforce.enterprise.slack.com/archives/C06QFUL9YFM
+
 
 ## How to Contribute:
 - Way 1.
@@ -39,8 +42,11 @@ BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR 
 ## Project Team & Accomplishments
 
 Data model that complies with best practice including privacy considerations.
+
 Exprience Cloud theme to enable self service requirments
+
 Flow that is used to log repair requests, either by customer or by agent. 
+
 Data requirestements schedule to be used by organisation prior to implementing the flow. 
 
 

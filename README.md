@@ -10,13 +10,15 @@ Enable Housing providers to implement a self service solution for their customer
 * Check on ongoing complaint
 * Report a repair
 * Report a communal repair
-* 
 
 ## Project Vertical
-This package will be compatible with both NPSP and Non Profit Cloud.
+This solution will be compatible with both NPSP and Non Profit Cloud.
 
-## Trailblazer Group or Slack Channel Link (access required)
-Please replace with the URL for your Trailblazer Community group and/or Slack channel issued by the Commons program team.
+## Slack Channel Link (access required)
+
+Repair:https://salesforce.enterprise.slack.com/archives/C06QUT9329X
+Self Service Portal: https://salesforce.enterprise.slack.com/archives/C06QG8U8E6N
+Complaints: https://salesforce.enterprise.slack.com/archives/C06QFUL9YFM
 
 ## How to Contribute:
 - Way 1.
@@ -35,6 +37,7 @@ BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR 
 
 # Sprint (4-5th June 2024): 
 ## Project Team & Accomplishments
+
 Data model that complies with best practice including privacy considerations.
 Exprience Cloud theme to enable self service requirments
 Flow that is used to log repair requests, either by customer or by agent. 

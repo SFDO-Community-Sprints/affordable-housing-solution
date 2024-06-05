@@ -5,7 +5,7 @@ This is a sample README.md file you can use to update your project. New project 
 
 # Project Overview
 ## Vision & Goals
-Please replace with your projects vision.
+Goal is to enable Housing organisations to implement a self service solution for their customers to manage their tenancy. Eventually this would enable them to access services such as repairs, complaints. 
 * Goal 1
 * Goal 2
 

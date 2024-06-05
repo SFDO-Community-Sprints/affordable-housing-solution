@@ -5,12 +5,15 @@ This is a sample README.md file you can use to update your project. New project 
 
 # Project Overview
 ## Vision & Goals
-Goal is to enable Housing organisations to implement a self service solution for their customers to manage their tenancy. Eventually this would enable them to access services such as repairs, complaints. 
-* Goal 1
-* Goal 2
+Enable Housing providers to implement a self service solution for their customers to manage their tenancy. Eventually this would enable clients to complete the following tasks;
+* Make a new complaint
+* Check on ongoing complaint
+* Report a repair
+* Report a communal repair
+* 
 
 ## Project Vertical
-Please replace with Nonprofit, Education, or Other (if Other, explain further)
+This package will be compatible with both NPSP and Non Profit Cloud.
 
 ## Trailblazer Group or Slack Channel Link (access required)
 Please replace with the URL for your Trailblazer Community group and/or Slack channel issued by the Commons program team.

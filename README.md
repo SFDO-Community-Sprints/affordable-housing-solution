@@ -41,13 +41,10 @@ BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR 
 # Sprint (4-5th June 2024): 
 ## Project Team & Accomplishments
 
-Data model that complies with best practice including privacy considerations.
-
-Exprience Cloud theme to enable self service requirments
-
-Flow that is used to log repair requests, either by customer or by agent. 
-
-Data requirestements schedule to be used by organisation prior to implementing the flow. 
+* Data model that complies with best practice including privacy considerations.
+* Eprience Cloud theme to enable self service requirments
+* Flow that is used to log repair requests, either by customer or by agent.
+* Data requirestements schedule to be used by organisation prior to implementing the flow. 
 
 
 ## Contributors
